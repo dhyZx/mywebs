@@ -1,0 +1,20 @@
+main{
+    background-color: purple;
+    height: auto;
+}
+
+.head-container h1{
+    color: whitesmoke;
+    font-style:oblique;
+    padding: 10px;
+}
+
+.list-menu {
+    float: right;
+    padding-right: 50px;
+}
+
+.menu {
+    margin: 0 15px;
+    font-size: 1.1rem;
+}
